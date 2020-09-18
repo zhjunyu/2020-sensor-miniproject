@@ -16,6 +16,13 @@ The median of occupancy in the office is 2.0, and variance is 1.68.
 
 The mean of time interval is 1.02 seconds, and variance is 1.14.
 
+The pictures are as follows: 
+![picture](img/TEMPERATURE.png)
+![picture](img/OCCUPANCY.png)
+![picture](img/CO2.png)
+![picture](img/TIME.png)
+
+
 
 The mean, median, variance, and the plots are also shown in “analyze.py”. The probability distribution function has the shape of gaussian distribution, though it is skewed a little bit. 
 
