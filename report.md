@@ -1,5 +1,7 @@
 Final Report
+
 Task 0
+
 The message on the server terminal was “IoT simulator connected to ('::1', 53936, 0, 0)”, and the message on the client terminal was “ECE Senior Capstone IoT simulator”. 
 
 Task 1
