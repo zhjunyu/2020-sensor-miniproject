@@ -10,6 +10,8 @@ I added three lines of code which have the following effects: open file, write t
 
 Task 2
 
+I collected 715 lines of data. Of the 715 lines, we have: 
+
 The median of temperature in lab 1 is 21.02 degrees, and variance is 6.39.
 
 The median of occupancy in the office is 2.0, and variance is 1.68. 
@@ -17,10 +19,14 @@ The median of occupancy in the office is 2.0, and variance is 1.68.
 The mean of time interval is 1.02 seconds, and variance is 1.14.
 
 The pictures are as follows: 
-![picture](main/TEMPERATURE.png)
-![picture](main/OCCUPANCY.png)
-![picture](main/CO2.png)
-![picture](main/TIME.png)
+
+![picture](https://github.com/zhjunyu/2020-sensor-miniproject/blob/main/TEMPERATURE.png)
+
+![picture](https://github.com/zhjunyu/2020-sensor-miniproject/blob/main/OCCUPANCY.png)
+
+![picture](https://github.com/zhjunyu/2020-sensor-miniproject/blob/main/CO2.png)
+
+![picture](https://github.com/zhjunyu/2020-sensor-miniproject/blob/main/TIME.png)
 
 
 
