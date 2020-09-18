@@ -58,25 +58,32 @@ The bad data points in class1 are:
 
 The updated mean of temperature in the office is:
 23.00937899032705
+
 The updated std of temperature in the office is:
 0.6160601485635125
 
 The updated mean of temperature in lab 1 is:
 21.008370408045018
+
 The updated std of temperature in the lab1 is:
 0.4944908191414018
 
 The updated mean of temperature in class1 is:
 27.218955730214198
+
 The updated std of temperature in class1 is:
 2.5670526480730573
 
 3.2 A persistent change in temperature doesn’t always indicate a failed sensor; it may be caused by change in environment (for example, season changes or changes caused by AC). Data points which has a large difference from the mean indicates a failed sensor; for example, I detected -160 and 41 degrees, and this data indicate a failed sensor. 
 
-3.3 The possible bounds on temperature for each room type in degrees are: 
+3.3 The possible bounds on temperature for each room type in degrees are:
+
 Office: 21.78 to 24.24
+
 Lab1: 20.02 to 22.00
+
 Class1: 22.08 to 32.35
+
 
 Task 4
 
