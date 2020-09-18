@@ -17,10 +17,10 @@ The median of occupancy in the office is 2.0, and variance is 1.68.
 The mean of time interval is 1.02 seconds, and variance is 1.14.
 
 The pictures are as follows: 
-![picture](img/main/TEMPERATURE.png)
-![picture](img/main/OCCUPANCY.png)
-![picture](img/main/CO2.png)
-![picture](img/main/TIME.png)
+![picture](main/TEMPERATURE.png)
+![picture](main/OCCUPANCY.png)
+![picture](main/CO2.png)
+![picture](main/TIME.png)
 
 
 
