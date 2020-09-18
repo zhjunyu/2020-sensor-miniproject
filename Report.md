@@ -17,10 +17,10 @@ The median of occupancy in the office is 2.0, and variance is 1.68.
 The mean of time interval is 1.02 seconds, and variance is 1.14.
 
 The pictures are as follows: 
-![picture](img/TEMPERATURE.png)
-![picture](img/OCCUPANCY.png)
-![picture](img/CO2.png)
-![picture](img/TIME.png)
+![picture](img/https://github.com/zhjunyu/2020-sensor-miniproject/blob/main/TEMPERATURE.png)
+![picture](img/https://github.com/zhjunyu/2020-sensor-miniproject/blob/main/OCCUPANCY.png)
+![picture](img/https://github.com/zhjunyu/2020-sensor-miniproject/blob/main/CO2.png)
+![picture](img/https://github.com/zhjunyu/2020-sensor-miniproject/blob/main/TIME.png)
 
 
 
